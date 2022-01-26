@@ -146,8 +146,6 @@ section .filter-card {
     display: flex;
     justify-content: center;
     align-items: center;
-
-    border: solid 1px black;
     margin-bottom: 40px;
 }
 
@@ -228,11 +226,11 @@ section .about {
 
 .title-wrapper-about {
     margin-top: 200px;
-    margin-bottom: 40px;
-    display: flex;
+    margin-bottom: 10px;
+    /* display: flex;
     align-items: center;
-    justify-content: center;
-    padding: 50px 10px; 
+    justify-content: center; */
+    padding: 30px 10px 20px;  /*50px 10px */ 
 } 
 
 .about-content {
@@ -243,26 +241,88 @@ section .about {
     margin:  0 auto;
     border-radius: 10px;
     z-index: 10;
-    padding: 10px;
+    padding: 18px; /*10px */
     display: flex;
     flex-direction: row;
     align-content: center;
     justify-content: space-between;
+}
+
+
+.left {
+    background: #acacac6b;
+}
+
+.right {
+    margin-left: 50px;
+    text-align: right;
+    margin-top: 145px;
+}
+
+.right h1 {
+    margin-bottom: 10px;
+}
+
+
+
+/* 
+@media (max-width: 521px) {
+    nav ul li {
+        display: none;
+        background-color: aqua;
+    }
+    .text {
+        top: 26%;
+        right: 14%;
+        left: 16%;
+        transform: translate(-0%, -20%);
+        padding: 0px;
+        margin: 0 auto;
+    }
+    header img {
+        width: 70%;
+        right: 14%;
+        top: 47%;
+        margin: 0 auto;
+    }
+
+    .card-item {
+        width: 88%;
+    }
 
 }
 
-/* .left img {
-
-    background-color: #ededed00;
+@media (max-width: 588px) {
+    .card-item img {
+        max-width: 67%;
+    }
 }
 
-.text-about {
-    background-color: var(---cor3);
-    border-radius: 10px;
-} 
+@media (max-width: 613px) {
+    .right {
+        margin-top: 0px;
+        margin-left: 5px;
+        text-align: left;
+    }
+}
 
-.text-about {
-    padding: 20px; */
-    /* display: flex;
-    justify-content: space-around; */
-/* }   */
+
+@media (max-width: 735px) {
+    .right {
+        margin: 0px 0px 0px 10px;
+    }
+}
+
+@media (max-width: 614px) {
+    .about-content {
+        height: 492px;
+    }
+    
+    .left {
+        display: none;
+    }
+    
+    .rigth {
+        margin-top: 40px;
+    }
+} */
