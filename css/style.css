@@ -296,6 +296,7 @@ section.features {
     display: flex;
     flex-direction: column;
     max-width: 234px;
+    margin-left: 15px;
 } 
 
 .features-intem img {
