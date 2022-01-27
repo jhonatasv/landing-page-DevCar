@@ -71,6 +71,10 @@
     .footer-wrapper img {
         width: 13%;
     }
+    
+    .feature-text-content {
+        margin-left: 15px;
+    }
 }
 
 @media (max-width: 890px) and (min-width: 672px) {
