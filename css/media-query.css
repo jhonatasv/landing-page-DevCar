@@ -4,6 +4,7 @@
         display: none;
         background-color: aqua;
     }
+
     .text {
         top: 26%;
         right: 14%;
@@ -12,6 +13,7 @@
         padding: 0px;
         margin: 0 auto;
     }
+
     header img {
         width: 70%;
         right: 14%;
@@ -58,4 +60,23 @@
     .rigth {
         margin-top: 40px;
     }
+}
+
+@media (max-width: 452px) {
+    .footer-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer-wrapper img {
+        width: 13%;
+    }
+}
+
+@media (max-width: 890px) and (min-width: 672px) {
+    .footer-wrapper {
+        width: 70%;
+        margin: 0 auto;
+    }
+
 }
