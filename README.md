@@ -9,3 +9,12 @@
 <p>
   Template feito por: <a href="https://github.com/devsuperior/devclass-catalogo-carros" target="_blank">lucianodiisouza</a>
 </p>
+
+## Bug corridos
+<hr>
+
+* responsividade
+   *  entre (922px e 580) barra de pesquisan *(filter-card)*
+   *  entre (588px e 490) botão de comprar *(card-item button)*
+   *  entre (680px e 578) quebra de linha no paragrafo *(right p)*
+   *  entre (970px e 582) quebra em recursos *(feature-card-block)*
