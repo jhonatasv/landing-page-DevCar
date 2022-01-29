@@ -18,9 +18,9 @@
   
        ![devsuperior_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/88457552/151638783-9f9bfcd4-1364-42e5-855d-ab394a1fa79a.gif) 
     
-   *  entre (588px e 490) botão de comprar *(card-item button)*
-     
-       ![devsuperior](https://user-images.githubusercontent.com/88457552/151640044-d406067e-f091-4ec5-8397-2beb576b4345.gif)
+   *  entre (588px e 490) botão de comprar *(card-item button)*  
+   
+       ![devsuperior_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/88457552/151641606-27f63fcf-fd34-459a-bab4-dd721b0d5c6b.gif)
   
   *  entre (680px e 578) quebra de linha no paragrafo *(right p)*
 
