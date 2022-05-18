@@ -1,32 +1,38 @@
-# Projeto DevCar
+<div align="center">
+<img with="550px" src="https://user-images.githubusercontent.com/88457552/169085390-99b03927-2425-4b21-b8db-0cb0eb44e23e.PNG">
+</div>
+
+<hr>
+
+Sobre: **Projeto DevCar** _feito para melhorar minhas habilidades com html e css._ <br> 
+Caso alguém queira fazer, vou deixar os recursos utilizado no projeto.
+
+<hr>
+
+<div align="center">
+  <img width="550px" src="https://user-images.githubusercontent.com/88457552/169088352-df4975d2-feb6-44f5-a8e1-ff491fea4e5c.PNG">
+</div>
+
+<hr>
+
 
 ## Recursos: 
 <p>
- Template utilizado neste projeto: <a href="https://www.figma.com/file/zEdDGF7hn1AOmZHfI04Sz6/devClass_001_HTML_CSS?node-id=0%3A1/" target="_blank">Figma</a> 
+ Template utilizado no projeto: <a href="https://www.figma.com/file/zEdDGF7hn1AOmZHfI04Sz6/devClass_001_HTML_CSS?node-id=0%3A1/" target="_blank">Figma</a> 
 </p>
-
 
 <p>
   Template feito por: <a href="https://github.com/devsuperior/devclass-catalogo-carros" target="_blank">lucianodiisouza</a>
 </p>
 
-## Bug corridos
 <hr>
 
-* responsividade
-   *  entre (922px e 580) barra de pesquisan *(filter-card)*
-  
-       ![devsuperior_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/88457552/151638783-9f9bfcd4-1364-42e5-855d-ab394a1fa79a.gif) 
-    
-   *  entre (588px e 490) botão de comprar *(card-item button)*  
-   
-       ![devsuperior_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/88457552/151641606-27f63fcf-fd34-459a-bab4-dd721b0d5c6b.gif)
-  
-  *  entre (680px e 578) quebra de linha no paragrafo *(right p)*
+  ## Tecnologias utilizadas:
 
-       ![devsuperior_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/88457552/151640479-4b1e551f-bd2c-4320-affc-d9f5e3fda976.gif)
-     
-   *  entre (932px e 582) quebra em recursos *(feature-card-block)*
 
-      ![devsuperior_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/88457552/151640868-269b712c-97e8-4371-9a53-9d966c268953.gif)
+ <div style="display: inline_block"><br>
+    <img width="99" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" /> 
+    <img width="85" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" /> 
+</div>
+
 
