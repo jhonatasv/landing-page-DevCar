@@ -2,12 +2,13 @@
 <img with="550px" src="https://user-images.githubusercontent.com/88457552/169085390-99b03927-2425-4b21-b8db-0cb0eb44e23e.PNG">
 </div>
 
-<hr>
 
-Sobre: **Projeto DevCar** _feito para melhorar minhas habilidades com html e css._ <br> 
+
+## Sobre: <br>
+ **Projeto DevCar** _feito para melhorar minhas habilidades com html e css._ <br> 
 Caso alguém queira fazer, vou deixar os recursos utilizado no projeto.
 
-<hr>
+
 
 <div align="center">
   <img width="550px" src="https://user-images.githubusercontent.com/88457552/169088352-df4975d2-feb6-44f5-a8e1-ff491fea4e5c.PNG">
