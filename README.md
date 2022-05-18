@@ -2,6 +2,9 @@
 <img with="550px" src="https://user-images.githubusercontent.com/88457552/169085390-99b03927-2425-4b21-b8db-0cb0eb44e23e.PNG">
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/jhonatasv/Verificador-de-idade?style=flat-square">
+</p>
 
 
 ## Sobre: <br>
